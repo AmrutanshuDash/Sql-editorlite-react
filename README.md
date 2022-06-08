@@ -1,11 +1,11 @@
-# SQL Editor
+# SQL EditorLite
 
 This is a SQL Editor built using ReactJs, TailwindCSS and contains all necessary functionalities to run different queries.
 
-<!-- ![Homepage](src/assets/screenshots/screenshot-readme.png) -->
+![Homepage](src/assets/screenshots/website.png)
 
 
-Live website ink : [ SQL Editor](https://react-sql-editor-view.vercel.app/)
+Live website ink : [ SQL Editor](https://sql-editorlite-react.vercel.app/)
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@ Live website ink : [ SQL Editor](https://react-sql-editor-view.vercel.app/)
 - `select * from suppliers`
 - `select * from territories`
 
-<!-- ## ⏱ Page Load Time
+## ⏱ Page Load Time
 
 Page Load time of this website in desktop is in the range of 0.4 s to 0.6s.
 
@@ -42,7 +42,7 @@ I calculated the performance and load time of this website using these two tools
 
 ### [Lighthouse Chrome DevTools Report](https://developers.google.com/web/tools/lighthouse#devtools) (got a perfect 💯)
 
-![lighthouse report](src/assets/screenshots/screenshot-lighthouse.png)
+![lighthouse report](src/assets/screenshots/performance.png)
 
 - **First Contentful Paint** marks the time at which the first text or image is painted
 - **Time to interactive** is the amount of time it takes for the page to become fully interactive.
@@ -53,7 +53,7 @@ I calculated the performance and load time of this website using these two tools
 
 ### [BrowserStack Report](https://www.browserstack.com/speedlab)
 
-![browserstack report](src/assets/screenshots/screenshot-three.png) -->
+![browserstack report](src/assets/screenshots/compatability.png)
 
 ## Steps I took to optimize the page load time
 
